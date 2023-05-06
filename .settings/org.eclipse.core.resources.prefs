@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/pt/ipbeja/estig/sokoban/gui/SokobanButton.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/gui/SokobanGUI.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/gui/SokobanLog.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/gui/SokobanView.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/Board.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/FinalPosition.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/Floor.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/Keeper.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/Mover.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/Position.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/Sokoban.java=UTF-8
+encoding//src/pt/ipbeja/estig/sokoban/model/Wall.java=UTF-8
+encoding//test/pt/ipbeja/estig/sokoban/model/SokobanTest.java=UTF-8
